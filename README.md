@@ -1,6 +1,6 @@
 <h3 align="center">
   <b>
-    # Hi! :wave: my name is Laura :smile:~
+    # hi! :wave: this is Laura :smile:~
   </b>
 </h3>
 
@@ -12,8 +12,10 @@ const laura = {
 	age: '27',
 	from: 'Florianopolis SC',
         education: {
-             ongoing: 'Systems Information @UNNISUL',
+             ongoing: 'Systems Information @UNISUL',
              completed: 'Architecture and Urban Planning @UFSC',
+	},
+	interests: [ 'web dev', 'graphic design', 'outdoors', 'cooking' ],
   }
 ```
 
